@@ -1,0 +1,3 @@
+[submodule "myir-t113s-linux"]
+	path = myir-t113s-linux
+	url = https://github.com/MYIR-T113S/myir-t113s-linux.git
