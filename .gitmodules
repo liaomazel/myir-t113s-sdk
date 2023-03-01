@@ -1,3 +1,6 @@
 [submodule "myir-t113s-linux"]
 	path = myir-t113s-linux
 	url = https://github.com/MYIR-T113S/myir-t113s-linux.git
+[submodule "brandy/brandy-2.0/myir-t113s-u-boot"]
+	path = brandy/brandy-2.0/myir-t113s-u-boot
+	url = https://github.com/MYIR-T113S/myir-t113s-u-boot.git
